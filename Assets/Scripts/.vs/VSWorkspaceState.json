@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NPC",
+    "\\NPC\\BossFightAI",
+    "\\NPC\\Enemy AI",
+    "\\SavingAndLoading",
+    "\\Timer",
+    "\\Utils",
+    "\\Weapons",
+    "\\Weapons\\Projectile",
+    "\\Weapons\\Weapon"
+  ],
+  "SelectedNode": "\\GameManager.cs",
+  "PreviewInSolutionExplorer": false
+}
